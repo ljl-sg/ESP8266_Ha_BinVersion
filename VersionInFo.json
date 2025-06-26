@@ -3,7 +3,7 @@
     {
       "device_type": "ESP12F-SPmini3-RLY1",
       "version": "25.0626.228",
-      "url": "https://raw.githubusercontent.com/yourusername/firmware-binaries/main/Esp12F_BroadLinkSPmini3_RLY1_Ver.1.0.1.bin",
+      "url": "http://bin.bemfa.com/b/1BcYjJkMjIzNDVjNWQ3NDQ1MzljMDI2ZTY3Y2YyZTNkNzk=SPmini3ESP12F006.bin",
       "changelog": "1. 修复MQTT连接问题\n2. 优化按钮响应逻辑"
     }
   ]
